@@ -4,9 +4,12 @@
 
 In this project, our main objectives are:
 
-**1.** Develop a function to extract genes of interest from one or more genomes efficiently.
+**1.** Develop a function to efficiently extract genes of interest from one or more genomes.
+
 **2.** Implement a function to filter sequences to the desired base pair (bp) length for targeted analysis.
+
 **3.** Utilize MAFFT to align the retrieved sequences for accurate comparisons.
+
 **4.** Generate and visualize gene trees to gain valuable insights.
 
 Focus Gene: ATPase Alpha Subunit
