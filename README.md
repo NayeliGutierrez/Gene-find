@@ -4,9 +4,9 @@
 
 This Python-based genomic data analysis aims to enhance our understanding of these essential genetic sequences and their implications in insect detoxification mechanisms. The main objectives are:
 
-**1.** Develop a function to efficiently extract genes of interest from one or more genomes.
+**1.** Develop a function to efficiently extract genes of interest from one or more genomes: GeneFind.py
 
-**2.** Implement a function to filter sequences to the desired base pair (bp) length for targeted analysis.
+**2.** Implement a function to filter sequences to the desired base pair (bp) length for targeted analysis: SeqFilter.py
 
 **3.** Utilize MAFFT to align the retrieved sequences for accurate comparisons.
 
